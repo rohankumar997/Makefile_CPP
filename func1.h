@@ -1,0 +1,2 @@
+#pragma
+int func1();
